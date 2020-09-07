@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ducmeit1/kong-route-transform-plugin.svg?branch=master)](https://travis-ci.com/ducmeit1/kong-route-transform-plugin)
+
 # Kong Route Trasnform Plugin
 
 Kong Route Transform Plugin supports route to another upstream's uri and upstream's name
