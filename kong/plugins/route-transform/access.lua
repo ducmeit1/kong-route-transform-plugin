@@ -1,4 +1,3 @@
-local kong = kong
 local kong_service = kong.service
 local ngx = ngx
 local _M = {}
